@@ -10,7 +10,7 @@
 
 	
 	<content src="index.html"/>
-	<icon src="icon.png" />
+	
 	<icon src="icon-256.png" width="256" height="256" gap:role="default" />
 
 	<platform name="android">
